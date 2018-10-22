@@ -2,4 +2,6 @@
 using namespace std;
 void main()
 {
- cout<<"calculator"<<endl;}
+ cout<<"calculator"<<endl;
+int x,y,z,a,d,e,w,q;
+}
