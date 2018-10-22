@@ -5,4 +5,8 @@ using namespace std;
 void main()
 {
  int a,b;
+int sum=0;
+sum+=a+b;
+cout<<sum<<endl;
 }
+
