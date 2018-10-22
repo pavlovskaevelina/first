@@ -1,2 +1,3 @@
 it is the MAIN commit ob master
 vasya decided to help
+and to write third string
